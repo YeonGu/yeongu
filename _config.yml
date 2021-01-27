@@ -5,7 +5,7 @@
 # Site
 title: GYh的小站
 subtitle: '顾 雨杭'
-description: 'gyh的个人博客'
+description: '摸鱼乃终生大事'
 keywords:
 author: Yuhang Gu
 language: zh-CN
@@ -98,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-theme-butterfly-dev
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

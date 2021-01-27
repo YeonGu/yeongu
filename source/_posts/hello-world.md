@@ -1,5 +1,6 @@
 ---
 title: Hello World
+cover: img/cover1.png
 ---
 
 欢迎来到**顾雨杭的个人小站**。
